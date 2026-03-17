@@ -1,5 +1,3 @@
-from random import choice
-
 import requests
 
 URL = "https://api.github.com"
